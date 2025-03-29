@@ -4,7 +4,7 @@ import { Star } from 'lucide-react';
 
 const testimonials = [
   {
-    quote: "Smart ",
+    quote: "The Ultimate Champ and My Tuffest Competition. ",
     author: "Rabindra Nath Mahato",
     role: "Dev",
     stars: 5
